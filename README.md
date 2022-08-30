@@ -1,2 +1,2 @@
 # license
-Delta Math Licensing
+DxltaMath Licensing
