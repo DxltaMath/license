@@ -1,3 +1,12 @@
+The GitHub repository of DxltaMath/Nil is licensed under the Mozilla Public License (Version 2.0). 
+
+In summary, you may use this software for almost anything other than profit.
+Using this software (Nil) to make profit is a violation of our license.
+
+----------------------------------------------------------------------------------------------------------------
+
+
+
 Mozilla Public License Version 2.0
 ==================================
 
